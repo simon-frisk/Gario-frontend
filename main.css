@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+}
+
+#title {
+  color: coral;
+  font-family: Calibri;
+  font-size: 3.5em;
+  position: absolute;
+  margin: 0;
+  top: 10px;
+  left: 15px;
+}
+
+#container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+#canvas {
+  background-color: lightgrey;
+}
